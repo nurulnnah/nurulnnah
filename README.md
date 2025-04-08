@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-<!--
-**nurulnnah/nurulnnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on projek
+- 🌱 I’m currently learning ppte
+- 👯 I’m looking to collaborate on ecuon
+- 🤔 I’m looking for help with noting
+- 💬 Ask me about pernhajn
+- 📫 How to reach me: mail
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: hibeon
 
 
 penuh semangat 
