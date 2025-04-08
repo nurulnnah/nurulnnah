@@ -39,22 +39,8 @@ IAIN Palopo sebagai kampus pencetak **pemimpin visioner** terus mendorong mahasi
 
 ---
 
-## 💡 Inovasi Mahasiswa
-![Inovasi](https://via.placeholder.com/800x400.png?text=Demo+Project+Mahasiswa)  
-*Contoh: Aplikasi "FiqhBot" - Asisten virtual untuk konsultasi fikih sehari-hari*
-
 ---
 
-## 📥 Cara Berpartisipasi
-1. **Clone repo**: `git clone https://github.com/username/reponame`  
-2. Buat branch baru: `git checkout -b fitur-anda`  
-3. Tambahkan karya di folder:  
-   - `/inovasi` untuk proyek tech  
-   - `/social-projects` untuk pengabdian masyarakat  
-   - `/riset` untuk paper/jurnal  
-4. Ajukan *Pull Request* dengan deskripsi detail!
-
----
 
 ## 📸 Galeri Aksi
 | [![Kegiatan 1](https://via.placeholder.com/150)](https://example.com) | [![Kegiatan 2](https://via.placeholder.com/150)](https://example.com) | [![Kegiatan 3](https://via.placeholder.com/150)](https://example.com) |  
